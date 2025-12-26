@@ -1,0 +1,113 @@
+Html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Young Agripreneurs Alliance (YAA)</title>
+  <style>
+    body {font-family: Arial, sans-serif; margin: 0; background:#f4f6f5; color:#222;}
+    header {background:#1b5e20; color:#fff; padding:20px; text-align:center;}
+    nav {background:#2e7d32; padding:10px; text-align:center;}
+    nav a {color:#fff; margin:0 10px; text-decoration:none; font-weight:bold;}
+    section {padding:40px 20px; max-width:1000px; margin:auto;}
+    h2 {color:#1b5e20;}
+    .card {background:#fff; padding:20px; margin:15px 0; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.1);}
+    footer {background:#1b5e20; color:#fff; text-align:center; padding:20px;}
+    .btn {display:inline-block; background:#2e7d32; color:#fff; padding:12px 20px; border-radius:6px; text-decoration:none; font-weight:bold;}
+    ul {padding-left:20px;}
+    ul li {margin:8px 0;}
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Young Agripreneurs Alliance (YAA)</h1>
+  <p>Innovate • Cultivate • Elevate</p>
+</header>
+
+<nav>
+  <a href="#about">About Us</a>
+  <a href="#mission">Mission</a>
+  <a href="#programs">Programs</a>
+  <a href="#membership">Membership</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <h2>About YAA</h2>
+  <div class="card">
+    <p>
+      The <strong>Young Agripreneurs Alliance (YAA)</strong> is a youth-led platform empowering
+      young farmers, agripreneurs, and innovators to transform agriculture into a
+      sustainable, profitable, and dignified livelihood.
+    </p>
+    <p>
+      We champion climate-smart farming, regenerative agriculture, agribusiness skills,
+      and collective growth for food security and economic empowerment.
+    </p>
+  </div>
+</section>
+
+<section id="mission">
+  <h2>Our Mission & Vision</h2>
+  <div class="card">
+    <h3>Mission</h3>
+    <p>
+      To empower young agripreneurs with knowledge, skills, networks, and opportunities
+      to build resilient and sustainable agricultural enterprises.
+    </p>
+
+    <h3>Vision</h3>
+    <p>
+      A generation of empowered young agripreneurs leading Africa’s agricultural
+      transformation.
+    </p>
+  </div>
+</section>
+
+<section id="programs">
+  <h2>Our Programs</h2>
+  <div class="card">
+    <ul>
+      <li>🌱 Regenerative & Climate-Smart Agriculture Training</li>
+      <li>🚜 Practical Farm Demonstrations & Field Days</li>
+      <li>📊 Agribusiness, Value Addition & Market Linkages</li>
+      <li>🤝 Mentorship, Partnerships & Capacity Building</li>
+      <li>📱 Digital Agriculture & Innovation Support</li>
+    </ul>
+  </div>
+</section>
+
+<section id="membership">
+  <h2>Join YAA</h2>
+  <div class="card">
+    <p>
+      Are you a young farmer, agribusiness owner, student, or innovator passionate
+      about agriculture?
+    </p>
+    <p>
+      Join YAA and be part of a trusted, transparent, and accountable community
+      shaping the future of agriculture.
+    </p>
+    <a href="#" class="btn">Become a Member</a>
+  </div>
+</section>
+
+<section id="contact">
+  <h2>Contact Us</h2>
+  <div class="card">
+    <p><strong>Email:</strong> youngagripreneursalliance@gmail.com</p>
+    <p><strong>Phone:</strong> +254 713 464 559</p>
+    <p><strong>WhatsApp Channel:</strong> Follow us for updates and opportunities</p>
+    <a href="https://whatsapp.com/channel/0029VbCAlaR2v1IzmqJJeJ3h" class="btn">Follow WhatsApp Channel</a>
+  </div>
+</section>
+
+<footer>
+  <p>&copy; 2025 Young Agripreneurs Alliance (YAA). All Rights Reserved.</p>
+  <p>Empowering Youth • Transforming Agriculture • Securing the Future</p>
+</footer>
+
+</body>
+</html>
